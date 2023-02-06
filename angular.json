@@ -22,5 +22,8 @@
     "util-ngfi-multi-lang": "libs/util/ngfi/multi-lang",
     "util-ngfi-state": "libs/util/ngfi/state"
   },
-  "defaultProject": "elewa-group-website"
+  "defaultProject": "elewa-group-website",
+  "cli": {
+    "analytics": "fc33a597-cbf3-4ac9-927f-67cfabca5ca2"
+  }
 }
